@@ -1,6 +1,6 @@
 {
   "name": "@kyupss/native-swipeable",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Kyupss TM",
   "license": "MIT",
   "description": "A powerful React Native swipe component",
