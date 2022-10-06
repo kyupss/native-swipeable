@@ -1,0 +1,28 @@
+# Logs
+*.log
+npm-debug.log
+
+# Dependency directory
+node_modules
+
+# Examples (If applicable to your project)
+./samples
+./example
+
+# source
+./assets
+./src
+
+# misc
+.babelrc
+.editorconfig
+.gitignore
+CHANGELOG.md
+README.md
+package.json
+renovate.json
+tsconfig.json
+yarn.lock
+
+#others misc
+demo.gif
