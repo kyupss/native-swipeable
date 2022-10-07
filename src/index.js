@@ -7,7 +7,7 @@ import { PropTypes } from 'prop-types';
 
 function noop() {}
 
-export default class Swipeable extends PureComponent {
+export class Swipeable extends PureComponent {
 
   static propTypes = {
     // elements
